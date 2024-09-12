@@ -3,7 +3,7 @@ package accessibility
 /*
 #include <stdlib.h>
 int callJavaNewAccessibility();
-const char* callJavaFindOnce(int obj, const char *selector);
+const char* callJavaFindOnce666(int obj, const char *selector);
 const char* callJavaFind(int obj, const char *selector);
 int callJavaUiObjectClick(const char *obj);
 */
